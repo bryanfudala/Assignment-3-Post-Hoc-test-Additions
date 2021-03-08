@@ -1,3 +1,4 @@
+# BRYAN FUDALA - This was my first attempt, i had no idea what i was doing.  Please see "BF_TEST.PY" for my rework
 import pytest
 import commands
 #import barky
